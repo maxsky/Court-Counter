@@ -1,0 +1,13 @@
+<!--
+  ~ Copyright (c) 2016 MaxSky.TK. All Rights Reserved.
+  -->
+
+<resources>
+	<string name="app_name">篮球计分器</string>
+	<string name="team_a">队伍 A</string>
+	<string name="team_b">队伍 B</string>
+	<string name="btn_add_3_points">+3 分</string>
+	<string name="btn_add_2_points">+2 分</string>
+	<string name="btn_free_throw">罚球 +1 分</string>
+	<string name="btn_reset">重新计分</string>
+</resources>
